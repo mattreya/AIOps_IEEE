@@ -1,0 +1,9 @@
+@gemini
+1.) replace "Matthew Reyes" with "Mathew Raio III"
+2.) replace "Silicon Valley" with "Snohomish County, WA"
+3.) replace "Email: matt@northwestern.edu" with "mathew.raio@csuglobal.edu"
+4.) Add a new section "Section IV": to propose using markdown files that underscore these values and place them
+in every IDE project so any agent or bot can Assess these standards and implement 'guard rails' to ensure compliance
+and standards are met. Summary.md markdown files should be created in each folder that labels the 'conversation
+with the day's date' as a naming convention for folders for ease of tracking tangibles and aiding others
+to 'rebuild' the project from scratch based on this information.

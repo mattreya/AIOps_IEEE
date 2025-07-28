@@ -1,0 +1,3 @@
+Author: Matt Raio
+Figure: @gemini, we don't have that yet...this is just a template
+Compilation: @gemini, we don't need that yet until we've written the paper!
