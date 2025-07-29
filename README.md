@@ -8,6 +8,7 @@ input is from the user and what input is from the author.
     b. recommend WHICH magazines to publish to. 
         NOTE TO EDITORS: If you wish to publish, you may do so with proper credit for myself and Google's Gemini-cli.
 4.) The deeper material in HOW a person learns to work with the bot is the subject of my upcoming website designed to train new learners on the 3 pilars: 1.) Network Fundamentals, 2.) Cybersecurity and 3.) IT Operations using various Sandboxes.
+I have a live work in progress called https://mattaiops.com. 
 
 It is my hope you enjoy this article. It's brief and to the point and incorporates things that have already been worked on with humans. Now bots will accelerate and free a person to leave the confines of developer silos in organizations and with 
 this structure go wild on fun and inventive tools that have not been thought of before. 
